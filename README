@@ -1,0 +1,39 @@
+# TrailAlert Prototype
+
+This repository contains a simple clickable prototype for the **TrailAlert** mobile concept.
+
+The purpose of this prototype is to visualize early UI ideas and test basic user flow. This version does not include real backend, authentication or location services — only static front-end logic.
+
+---
+
+### 🚀 Live Demo
+You can view the prototype here:
+
+👉 https://Elohopea-code.github.io/trailalert-proto/
+
+---
+
+### 📁 Contents
+
+- `index.html` — main prototype view
+
+---
+
+### 📌 Notes
+
+- Optimized for mobile view, but works in desktop browser.
+- All features, icons and interactions are placeholder-level and may change.
+
+---
+
+### 🔧 Future Potential
+
+- Real-time map integration
+- Location-based notifications
+- Hunter tracking
+
+---
+
+### 📄 License
+
+Feel free to use or modify for personal or educational purposes.  
